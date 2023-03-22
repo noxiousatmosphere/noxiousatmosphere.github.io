@@ -1,3 +1,10 @@
+---
+layout: default
+title: Two Weeks Before
+parent: Tournament Hosting Guide
+nav_order: 1
+---
+
 # 2 Weeks Out
 ## Encourage UCF players to sign up 
 @everyone in the Discord, and include the same details from your earlier announcement 
