@@ -25,7 +25,7 @@ They will usually restrict tournament dates to a single weekend, so just choose 
 
 ## Submit a bid (ACF or NAQT)
 
-If you're hosting an ACF or NAQT tournament, you'll need to submit a bid for your site. This way, the tournament heads at ACF/NAQT can see which schools in which regions are interested in hosting. Host sites don't tend to be plentiful, so if you coordinate with the schools in your region, you'll be the host if you submit a bid. 
+If you're hosting an ACF or NAQT tournament, you'll need to submit a bid for your site. This way, the tournament heads at ACF/NAQT can see which schools in which regions are interested in hosting. Host sites don't tend to be plentiful, so if you coordinate with the schools in your region, your bid for hosting will most likely be approved.
 
 ### For ACF:
  
