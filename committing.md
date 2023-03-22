@@ -1,3 +1,10 @@
+---
+layout: default
+title: Deciding to Host
+parent: Tournament Hosting Guide
+nav_order: 1
+---
+
 #  Committing to host a tournament
 
 
