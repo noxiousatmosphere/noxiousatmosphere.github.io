@@ -6,6 +6,11 @@ nav_order: 7
 ---
 
 # Tournament Day
+{: .no_toc }
+
+- TOC
+{:toc}
+
 ## Arrive two hours early
 You need to be done setting up by the time volunteers are arriving, so it’s better to have time to kill than to be running late. 
 
