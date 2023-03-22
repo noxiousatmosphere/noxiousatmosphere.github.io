@@ -6,6 +6,10 @@ nav_order: 5
 ---
 
 # 1 Week Out
+{: .no_toc }
+
+- TOC
+{:toc}
 
 ## Decide what awards to announce
 This is ultimately up to your discretion as tournament director. depends on the size of your tournament. 
