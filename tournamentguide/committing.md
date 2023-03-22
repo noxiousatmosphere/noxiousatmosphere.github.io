@@ -6,10 +6,13 @@ nav_order: 1
 ---
 
 #  Deciding to Host a Tournament
+{: .no_toc }
 
+- TOC
+{:toc}
 
 ## Decide on a date for the tournament
-* Check to make sure it’s not the same date as a UCF home game, as you can’t reserve classrooms on those days: https://ucfknights.com/sports/football/schedule.  
+Check to make sure it’s not the same date as a UCF home game, as you can’t reserve classrooms on those days: https://ucfknights.com/sports/football/schedule.  
 
 
 ### For ACF: 
