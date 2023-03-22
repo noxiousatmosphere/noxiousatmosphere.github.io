@@ -6,6 +6,11 @@ nav_order: 6
 ---
 
 # 1 Day Out
+{: .no_toc }
+
+- TOC
+{:toc}
+
 ## Set up a group chat for all volunteers with relevant links 
 If you have more than ten volunteers, you’ll need to create a separate Discord server and have them join that. 
 
