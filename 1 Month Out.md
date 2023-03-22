@@ -1,3 +1,10 @@
+---
+layout: default
+title: One Month Before
+parent: Tournament Hosting Guide
+nav_order: 3
+---
+
 # 1 Month Out
 ## Start a running roster of all teams 
 ### For ACF:
