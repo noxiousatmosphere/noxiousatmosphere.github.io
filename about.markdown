@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Home
+nav_order: 1
 ---
 
 TESTING TESTING 1 2 3
