@@ -6,6 +6,11 @@ nav_order: 4
 ---
 
 # 2 Weeks Out
+{: .no_toc }
+
+- TOC
+{:toc}
+
 ## Encourage UCF players to sign up 
 @everyone in the Discord, and include the same details from your earlier announcement 
 
