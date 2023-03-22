@@ -11,7 +11,7 @@ nav_order: 6
 - TOC
 {:toc}
 
-## Set up a group chat for all volunteers with relevant links 
+## Set up a group chat for all volunteers 
 If you have more than ten volunteers, you’ll need to create a separate Discord server and have them join that. 
 
 Either way, send them: 
