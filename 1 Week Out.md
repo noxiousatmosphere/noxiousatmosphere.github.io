@@ -1,3 +1,10 @@
+---
+layout: default
+title: One Week Before
+parent: Tournament Hosting Guide
+nav_order: 5
+---
+
 # 1 Week Out
 
 ## Decide what awards to announce
