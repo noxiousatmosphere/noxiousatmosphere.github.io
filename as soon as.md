@@ -1,3 +1,10 @@
+---
+layout: default
+title: Immediately After Bid
+parent: Tournament Hosting Guide
+nav_order: 2
+---
+
 # As soon as your bid is approved...
 ## Make a room reservation with UCF 
 * The Classroom Reservation form can be accessed at the bottom of [this page](https://registrar.ucf.edu/classroom-reservations/). 
