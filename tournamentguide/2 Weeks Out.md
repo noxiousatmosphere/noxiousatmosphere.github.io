@@ -5,7 +5,7 @@ parent: Tournament Hosting Guide
 nav_order: 4
 ---
 
-# 2 Weeks Out
+# Two Weeks Before
 {: .no_toc }
 
 - TOC
