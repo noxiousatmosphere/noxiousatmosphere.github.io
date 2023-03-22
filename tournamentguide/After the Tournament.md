@@ -6,6 +6,11 @@ nav_order: 8
 ---
 
 # After the Tournament 
+{: .no_toc }
+
+- TOC
+{:toc}
+
 ## Fix any statistical errors
 In the event you find any moderator or statistician errors, just re-open the YellowFruit files, make any necessary changes, re-export the files, and re-upload them to the tournament database. 
 
