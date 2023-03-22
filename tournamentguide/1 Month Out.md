@@ -6,6 +6,11 @@ nav_order: 3
 ---
 
 # 1 Month Out
+{: .no_toc }
+
+- TOC
+{:toc}
+
 ## Start a running roster of all teams 
 ### For ACF:
 The tournament coordinator will have reached out to you by now with more information, which will include a running sheet of teams who have signed up.
