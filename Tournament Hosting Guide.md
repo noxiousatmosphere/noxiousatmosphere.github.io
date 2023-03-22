@@ -13,4 +13,4 @@ If this guide doesn't cover something, reach out to people you know with TD expe
 
 That being said, don't be afraid of TD'ing—if you have the time and are willing to put in the effort, it's a great way to contribute to your region's quiz bowl scene (and also make some cash for your club while you're at it).
 
-If you notice any mistakes or glaring omissions in this guide, I welcome any feedback: fantradisc#3677 (Discord). 
+If you notice any errors or glaring omissions in this guide, I welcome any feedback: fantradisc#3677 (Discord). 
