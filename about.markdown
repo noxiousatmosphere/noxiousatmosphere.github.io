@@ -8,6 +8,6 @@ nav_order: 1
 
 Quiz Bowl UCF is the collegiate quiz bowl club at the University of Central Florida. 
 
-[https://discord.gg/uHPr7K9PzT](Join us on Discord)
+[Join us on Discord](https://discord.gg/uHPr7K9PzT)
 
-[https://instagram.com/quizbowlucf](Follow us on Instagram)
+[Follow us on Instagram](https://instagram.com/quizbowlucf)
