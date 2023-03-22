@@ -62,6 +62,6 @@ As a tournament director, missing an alarm the morning of the tournament is a ni
 
 * Set an alarm on a manual alarm clock across from my bed 
 * Set multiple alarms on my iPhone, using an unusual ringtone so I’m unlikely to sleep through them (like a Death Grips song or something) 
-* Tell my friend (who works overnight shifts in a hospital) to give me a call if I haven’t texted him by 6:30am telling him that I’m awake. 
+* Leave my ringer up overnight and ask my father to call me if he doesn't hear from me by 6:00am
 
-I’m not saying you need to do all this, but you do need to make sure that there’s no possible way you miss your alarms. 
+Whatever steps you take, make sure that there’s no possible way you miss your alarms. 
