@@ -5,7 +5,7 @@ parent: Tournament Hosting Guide
 nav_order: 1
 ---
 
-#  Committing to host a tournament
+#  Deciding to Host a Tournament
 
 
 ## Decide on a date for the tournament
