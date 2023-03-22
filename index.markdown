@@ -1,3 +1,9 @@
+---
+layout: default
+title: Welcome
+nav_exclude: true
+---
+
 # Welcome!
 
 Quiz Bowl UCF is the collegiate quiz bowl club at the University of Central Florida. 
