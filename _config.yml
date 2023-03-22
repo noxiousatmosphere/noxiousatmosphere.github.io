@@ -35,6 +35,9 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
+header_pages:
+  - 1 Day Out.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
