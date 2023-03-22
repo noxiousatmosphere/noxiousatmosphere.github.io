@@ -24,6 +24,9 @@ They will announce a specific date.
 They will usually restrict tournament dates to a single weekend, so just choose that Saturday, with Sunday as a backup. 
 
 ## Submit a bid (ACF or NAQT)
+
+If you're hosting an ACF or NAQT tournament, you'll need to submit a bid for your site. This way, the tournament heads at ACF/NAQT can see which schools in which regions are interested in hosting. Host sites don't tend to be plentiful, so if you coordinate with the schools in your region, you'll be the host if you submit a bid. 
+
 ### For ACF:
  
 * Look on the quiz bowl forums for that tournament’s global announcement—here’s [ACF Winter 2022](https://hsquizbowl.org/forums/viewtopic.php?t=26240) 
