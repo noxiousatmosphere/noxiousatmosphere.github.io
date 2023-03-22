@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Immediately After Bidding
+title: After Your Bid Is Approved
 parent: Tournament Hosting Guide
 nav_order: 2
 ---
 
-# As soon as your bid is approved...
+# After Your Bid Is Approved
 {: .no_toc }
 
 - TOC
