@@ -24,8 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Quiz Bowl UCF homepage and tournament hosting guide
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 #theme: just-the-docs
@@ -33,20 +31,6 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
-header_pages:
-  - committing.md
-  - as soon as.md
-  - 1 Month Out.md
-  - 2 Weeks Out.md
-  - 1 Week Out.md
-  - 1 Day Out.md
-  - Tournament Day.md
-  - After the Tournament.md
-
-
-minima:
-  social_links:
-    - { platform: instagram, quizbowlucf: "https://www.instagram.com/quizbowlucf/" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
