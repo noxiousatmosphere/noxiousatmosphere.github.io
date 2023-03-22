@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Immediately After Bid
+title: Immediately After Bidding
 parent: Tournament Hosting Guide
 nav_order: 2
 ---
