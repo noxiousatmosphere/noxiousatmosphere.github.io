@@ -6,6 +6,11 @@ nav_order: 2
 ---
 
 # As soon as your bid is approved...
+{: .no_toc }
+
+- TOC
+{:toc}
+
 ## Make a room reservation with UCF 
 * The Classroom Reservation form can be accessed at the bottom of [this page](https://registrar.ucf.edu/classroom-reservations/). 
 * Input the following: 
