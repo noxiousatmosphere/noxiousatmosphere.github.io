@@ -36,7 +36,15 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - committing.md
+  - as soon as.md
+  - 1 Month Out.md
+  - 2 Weeks Out.md
+  - 1 Week Out.md
   - 1 Day Out.md
+  - Tournament Day.md
+  - After the Tournament.md
+
 
 minima:
   social_links:
