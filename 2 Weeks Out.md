@@ -2,7 +2,7 @@
 layout: default
 title: Two Weeks Before
 parent: Tournament Hosting Guide
-nav_order: 1
+nav_order: 4
 ---
 
 # 2 Weeks Out
