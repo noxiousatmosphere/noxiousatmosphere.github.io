@@ -29,8 +29,9 @@ While it’s technically not allowed, I prefer to place volume warning signs aro
 ## Set up opening meeting 
 * Turn on all the lights
 * Turn on the projector
-* Pull up the publicly viewable tournament schedule
-* Play some light music to set the mood 
+* Log into the classroom computer with your UCF account
+* Pull up the publicly viewable tournament schedule on the projector
+* Play a Beethoven sonata to set the mood (optional)
 
 ## Welcome teams as they arrive
 Self-explanatory.
