@@ -22,7 +22,7 @@ I would recommend creating a new Google Form with [these questions](https://docs
 
 ## Send all volunteers a thank-you email
 ### For NAQT:
-Include a reminder to delete any copies they have and a reminder that they may not volunteer at any tournaments that use the same set—see the NAQT article “Maintaining Question Security.” 
+Include a reminder to delete any copies they have and a reminder that they may not volunteer at any tournaments that use the same set—see the NAQT article ["Maintaining Question Security"](https://www.naqt.com/hosting/security-responsibility.html).
 
 ## Backup your stat sheets and YellowFruit files
 1. Export all Google Sheets as Excel docs, and upload these to a folder in the club Google Drive for posterity.
