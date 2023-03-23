@@ -96,8 +96,10 @@ I would **strongly** recommend using the scoresheet template from NAQT, regardle
 3. Select the folder you want to save this copy to. I’d suggest making a new folder with the tournament name, if you haven’t already. 
 4. Click “Make a Copy.” 
 5. Next, navigate to this new folder. Create a new sub-folder for each gameplay room. For example, if your tournament has five rounds of gameplay going on simultaneously, create five new folders. 
-6. Rename each folder with the room number and the last name of the reader who will be staffing it. This will save you a lot of headache later! See below. 
-![name of the image][{{site.url}}assets/Picture1.png]
+6. Rename each folder with the room number and the last name of the reader who will be staffing it. This will save you a lot of headache later! See below:
+ 
+![Picture1.png][{{site.url}}assets/Picture1.png]
+
 7. Open the score sheet. 
 8. Fill out the red-highlighted cell next to the word “Event.” (For example, “NAQT SCT 2023 @UCF”) 
 9. Right-click the tab titled “Scoresheet” at the bottom, and click “Duplicate.” 
