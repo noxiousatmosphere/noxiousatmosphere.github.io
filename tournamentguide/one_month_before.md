@@ -2,7 +2,7 @@
 layout: default
 title: One Month Before
 parent: Tournament Hosting Guide
-nav_order: 3
+nav_order: 4
 ---
 
 # One Month Before
