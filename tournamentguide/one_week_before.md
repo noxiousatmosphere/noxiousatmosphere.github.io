@@ -98,7 +98,7 @@ I would **strongly** recommend using the scoresheet template from NAQT, regardle
 5. Next, navigate to this new folder. Create a new sub-folder for each gameplay room. For example, if your tournament has five rounds of gameplay going on simultaneously, create five new folders. 
 6. Rename each folder with the room number and the last name of the reader who will be staffing it. This will save you a lot of headache later! See below:
  
-![Picture1][{{site.url}}assets/Picture1.png]
+![Picture1][/assets/Picture1.png]
 
 7. Open the score sheet. 
 8. Fill out the red-highlighted cell next to the word “Event.” (For example, “NAQT SCT 2023 @UCF”) 
