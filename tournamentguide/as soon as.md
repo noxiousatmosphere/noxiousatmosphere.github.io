@@ -31,9 +31,9 @@ Input the following:
 Once you send this form, you should automatically receive a confirmation email.
 
 In case you’re wondering, the Lupfer Atrium of BA1 is ideal for several reasons: 
-	* It has restrooms nearby
-	* First floor and second floor rooms are all close to each other
-	* It’s near the Student Union and parking Garage C
+* It has restrooms nearby
+* First floor and second floor rooms are all close to each other
+* It’s near the Student Union and parking Garage C
 
 Please note that the registrar’s office can take several business days to reply, so be patient. If you’re emailing them prior to the second week of the semester, don’t expect a reply until Monday of week three at the earliest. 
 
