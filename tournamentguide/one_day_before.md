@@ -29,15 +29,23 @@ If you followed the steps from earlier, you’ll have already added their emails
 
 **Regardless, confirm with each volunteer that they can access their folder!** You will not have time tomorrow morning for troubleshooting Google Drive permissions. 
 
-# Give volunteers access to questions or print off questions 
+## Give volunteers access to questions or print off questions 
 **Note: Before you give anyone access to the questions, get confirmation in writing that they are volunteering and not competing.**  For the sake of preserving question integrity, someone is ineligible to compete in a tournament the moment they have access to the questions. This even includes situations where someone’s email was added to the question folder but they didn’t actually access the questions yet. For everyone’s sake, double-check this! 
 ### For NAQT
 A representative should have already sent you a ZIP file containing questions. Upload these packets to a new Google Drive folder. Add your volunteers’ email addresses to the Share section of this folder. 
 ### For ACF
 A representative will have already sent you a Google Drive link. Just share this link with the volunteers. If they can’t access the link for some reason, just download the files, place them in a new Google Drive folder, and add their email addresses to that folder. 
 
+## Double-check your schedule
+Look over your schedule at the editable link and double-check:
+* The overall number of teams
+* The name of each team
+* The room numbers (and moderator names, if you added those)
 
-# Write a packing list for tomorrow
+If you make any changes, you don't need to send a new link to everyone—your schedule will still have same shareable URL as before. 
+
+
+## Write a packing list for tomorrow
 Before you go to sleep, make sure you know exactly what you need to bring with you the next morning. My packing list usually includes: 
 
 * Energy drink
