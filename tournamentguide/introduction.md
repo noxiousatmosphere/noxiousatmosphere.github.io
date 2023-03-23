@@ -11,7 +11,12 @@ nav_order: 1
 - TOC
 {:toc}
 
-College quiz bowl can't happen without people stepping up to volunteer as Tournament Directors (TDs), so I've compiled everything I've learned the hard way as a neophyte TD into this guide. It is intended to provide a (nearly) comprehensive, top-down overview of what steps need to be taken when planning and hosting a tournament. 
+## What is this? 
+This guide is a compilation everything I've learned the hard way as a neophyte tournament director. It's intended to provide a (nearly) comprehensive, top-down overview of every step that goes into successfull hosting a quiz bowl tournament. Other tournament hosting guides exist, but I wanted to write one specific to UCF and include some tips I haven't read elsewhere.  
+
+## Why host tournaments? 
+
+If you have the time and are willing to put in the effort, hosting tournaments is a great way to contribute to your region's quiz bowl scene (plus, it's also a great way to raise funds for your club). Quiz bowl can't happen without tournament directors (TDs) and volunteers, so I'd encourage you to consider helping host a tournament if you haven't already. 
 
 ## Notice a mistake?
 
@@ -23,7 +28,5 @@ If you have any questions or concerns about hosting, reach out to me, former TDs
 
 Don't be afraid to ask questions, and be sure to do so ahead of time—if you wait too long, your tournament may suffer for it!
 
-## Why direct tournaments? 
 
-That being said, don't be afraid to step up and direct—if you have the time and are willing to put in the effort, it's a great way to contribute to your region's quiz bowl scene (and also make some cash for your club while you're at it). It bears repeating that quiz bowl can't happen without tournament directors and volunteers. 
 
