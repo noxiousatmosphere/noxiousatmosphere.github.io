@@ -21,7 +21,7 @@ Try to send a wrap-up email to teams within a few days of the tournament. You ca
 I would recommend creating a new Google Form with [these questions](https://docs.google.com/forms/d/e/1FAIpQLScsG9QooTc1TgVHuI40al4fz4zrkfL9cXxjOaP4_DpKRc7Y-g/viewform). It’s not a dire necessity, but I think it’s important to make sure that we get any feedback people are willing to offer.  
 
 ## Send all volunteers a thank-you email
-### For NAQT:
+### For NAQT
 Include a reminder to delete any copies they have and a reminder that they may not volunteer at any tournaments that use the same set—see the NAQT article ["Maintaining Question Security"](https://www.naqt.com/hosting/security-responsibility.html).
 
 ## Backup your stat sheets and YellowFruit files
