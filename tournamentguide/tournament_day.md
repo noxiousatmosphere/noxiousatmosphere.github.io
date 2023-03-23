@@ -56,8 +56,7 @@ I would strongly recommend allotting 45 minutes for lunch. If people take longer
 You could write an entire manual just on this step, but for final rounds, just follow the instructions at the bottom of the HDWhite schedule. If you're hosting an NAQT tournament, they will tell you how to run final rounds. 
 
 ## Prepare notes for the awards ceremony
-* As the last round is coming to a close, you should have a solid idea of which teams are going to come out on top. 
-* Prepare a list of the top highest-scoring individuals, based on individual points per game (PPG) from **preliminary** (not finals) rounds. 
+As the last round is coming to a close, you should have a solid idea of which teams are going to come out on top. Prepare a list of the top highest-scoring individuals, based on individual points per game (PPG) from **preliminary** (not finals) rounds. 
 
 ## Awards ceremony 
 Quiz bowl crowds hate pomp and circumstance, so keep the announcements quick and straightforward.
