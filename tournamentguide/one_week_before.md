@@ -2,7 +2,7 @@
 layout: default
 title: One Week Before
 parent: Tournament Hosting Guide
-nav_order: 5
+nav_order: 6
 ---
 
 # One Week Before
