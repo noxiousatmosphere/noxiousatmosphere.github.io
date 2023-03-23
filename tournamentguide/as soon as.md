@@ -14,18 +14,19 @@ nav_order: 3
 ## Make a room reservation with UCF 
 The Classroom Reservation form can be accessed at the bottom of [this page](https://registrar.ucf.edu/classroom-reservations/). 
 Input the following: 
-	* Select “Registered Student Organization or SGA/SGA Affiliated Agency”
-	* Faculty Advisor: <Contact information can be found in the Club Wiki> 
-	* Event Name: <Name of tournament here> 
-	* Event Type: “Collegiate quiz bowl tournament” 
-	* Attendees: <the number of people you’re expecting, plus 10> 
-	* Event Description: “The Florida site of the (National Academic Quiz Tournaments)/(Academic Competition Federation) <year> <tournament name> tournament—we'll be hosting teams from other universities as well.”
-	* Room Information: “Ideally, we could reserve ten rooms around the Lupfer Atrium side of Business Administration I.” 
-	* Requires multimedia: No
-	* Setup: 7:30am
-	* Start: 8:00am
-	* End: 6:20pm
-	* Cleanup: 6:20pm 
+
+* Select “Registered Student Organization or SGA/SGA Affiliated Agency”
+* Faculty Advisor: <Contact information can be found in the Club Wiki> 
+* Event Name: <Name of tournament here> 
+* Event Type: “Collegiate quiz bowl tournament” 
+* Attendees: <the number of people you’re expecting, plus 10> 
+* Event Description: “The Florida site of the (National Academic Quiz Tournaments)/(Academic Competition Federation) <year> <tournament name> tournament—we'll be hosting teams from other universities as well.”
+* Room Information: “Ideally, we could reserve ten rooms around the Lupfer Atrium side of Business Administration I.” 
+* Requires multimedia: No
+* Setup: 7:30am
+* Start: 8:00am
+* End: 6:20pm
+* Cleanup: 6:20pm 
 
 Once you send this form, you should automatically receive a confirmation email.
 
