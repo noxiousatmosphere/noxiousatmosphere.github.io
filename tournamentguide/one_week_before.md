@@ -135,4 +135,4 @@ Make sure you install YellowFruit before the tournament and check that the progr
 **Note:** YellowFruit is not available for Macs at this time. If you don’t own a PC, you will need to borrow a PC from a club member to use the day of the tournament. Don’t try to borrow a laptop from the library—you can’t download and run new programs on those. 
 
 ## Read the rest of this guide!
-While you have time, read ahead in this guide and make sure you understand what you need to do during the tournament. **If you fail to plan for something and don’t realize until the day of the tournament, you will not have time to recover!**
+While you have time, [read ahead in this guide](https://noxiousatmosphere.github.io/tournamentguide/one_day_before.html) and make sure you understand what you need to do during the tournament. **If you fail to plan for something and don’t realize until the day of the tournament, you will not have time to recover!**
