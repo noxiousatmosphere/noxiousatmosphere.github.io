@@ -46,7 +46,7 @@ Unless you’re willing to spend your own money to compensate volunteers with fr
 O
 nce you’ve recruited at least one volunteer per room, try to recruit two players who would be willing to step down and volunteer the morning of the tournament if need be. Hopefully, they won’t need to staff, but it beats finding out the morning of the competition that you don’t have enough volunteers to run the event.  
 
-### For NAQT:
+### For NAQT
 If you’re using NAQT questions, it’s safest to assume that no quiz bowl players or staff from nearby two-year or high schools will be eligible to volunteer. For more information, see [this page](https://www.naqt.com/schedule/assigned-packet-sets.jsp). 
 
 ## Post tournament details on the quiz bowl forums
@@ -61,10 +61,10 @@ Don’t panic if you make a mistake or forget something—you can edit your post
 
 Your post will have to be approved by a moderator, so don’t worry if it doesn’t show up immediately. 
 
-### For ACF: 
+### For ACF
 * ACF will send you a template post, so all you need to do is just add the information specific to your site. 
 
-### For NAQT: 
+### For NAQT
 * There’s no official NAQT announcement template, but you can use [this earlier announcement](https://hsquizbowl.org/forums/viewtopic.php?p=392930&) as a template.
 
 
