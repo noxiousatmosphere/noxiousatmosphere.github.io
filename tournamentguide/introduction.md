@@ -5,7 +5,7 @@ parent: Tournament Hosting Guide
 nav_order: 1
 ---
 
-#Introduction 
+# Introduction 
 
 College quiz bowl can't happen without people stepping up to volunteer as Tournament Directors (TDs), so I've compiled everything I've learned the hard way as a neophyte TD into this guide. It is intended to provide a (nearly) comprehensive, top-down overview of what steps need to be taken when planning and hosting a tournament. 
 
