@@ -126,13 +126,13 @@ Here’s a non-exhaustive list:
 * Shareable link to tournament schedule 
 
 ## Train your stats keeper
-In addition to the score keeping that happens during each round, someone has to take all this data and compile it in YellowFruit. This program takes round data and exports HTML score reports that can be uploaded to the tournament database. 
+In addition to the score keeping that happens during each round, someone has to take all this data and compile it in [YellowFruit](https://y.yellowfruit.app). This program takes round data and exports HTML score reports that can be uploaded to the tournament database. 
 
 In all likelihood, you as Tournament Director will be the scorekeeper. Be sure to bring a mouse, charger, or anything you need to work quickly. 
 
-Make sure you install YellowFruit before the tournament and check that the program can run on your device without crashing or stalling. 
+Make sure you [install YellowFruit](https://github.com/ANadig/YellowFruit/releases/tag/v3.0.2) before the tournament and check that the program can run on your device without crashing or stalling. 
 
 **Note:** YellowFruit is not available for Macs at this time. If you don’t own a PC, you will need to borrow a PC from a club member to use the day of the tournament. Don’t try to borrow a laptop from the library—you can’t download and run new programs on those. 
 
 ## Read the rest of this guide!
-While you have time, [read ahead in this guide](https://noxiousatmosphere.github.io/tournamentguide/one_day_before.html) and make sure you understand what you need to do during the tournament. **If you fail to plan for something and don’t realize until the day of the tournament, you will not have time to recover!**
+While you have time, [read ahead in this guide](https://noxiousatmosphere.github.io/tournamentguide/one_day_before.html) and make sure you understand what you need to do during the tournament. **If you fail to plan for something and don’t realize until the day of the tournament, you will not have time to recover!** 
