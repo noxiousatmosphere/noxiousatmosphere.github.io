@@ -62,9 +62,9 @@ Use this [invoice template](https://docs.google.com/document/d/1LAe9VNWhElItCBOF
 
 Email it to the representative of each school. You can include this [invoice message text](https://docs.google.com/document/d/1NX8nZsaWjCiqzjThS6bjM5EeJaKRCV__82wzslSuD7I/edit) in your email. 
 
-### For ACF: 
+### For ACF
 The ACF site director will give you access to a spreadsheet with each team’s registration details. 
-### For NAQT: 
+### For NAQT
 On the NAQT site page for your tournament site, click on “Current Field” to see each team’s registration details.  
 
 ## Create the tournament schedule
