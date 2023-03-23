@@ -5,7 +5,7 @@ parent: Tournament Hosting Guide
 nav_order: 3
 ---
 
-# One Month Out
+# One Month Before
 {: .no_toc }
 
 - TOC
