@@ -2,7 +2,7 @@
 layout: default
 title: One Day Before
 parent: Tournament Hosting Guide
-nav_order: 6
+nav_order: 7
 ---
 
 # One Day Before
