@@ -43,8 +43,10 @@ As each round ends, immediately input the round data into YellowFruit.
 
 When the last round before lunch is complete, upload your stats so far to the tournament database so players can view them during their lunch break. 
 
-**Very important note:** You won't be able to announce winners or setup finals matches until you've compiled the scores from every preliminary round, so no matter what, make sure you finish these as soon as possible after the last preliminary round is done. No one can play until these stats are compiled, so try to do this as quickly (but accurately) as possible. 
-* For example: if your tournament is a nine-game round robin, you should have every match from rounds 1-8 compiled by the time round #9 finishes. This way, you only need to add four or five matches of data for your statistics to be done. 
+**Very important note:** You won't be able to announce winners or set up final matches until you've compiled the scores from every preliminary round. Hence, it is crucial that you've compiled every previous round by the time the last preliminary round is wrapping up. This will minimize the delay before final matches and the awards ceremony. 
+* For example: if your tournament is a nine-game round robin, you should have every match from rounds 1-8 compiled by the time round #9 finishes. This way, you only need to add the four or five games from round #9 for your stats to be done. 
+
+No one can play until these statistics are compiled, so make sure this does not catch you by surprise! 
 
 ## Break for lunch 
 I would strongly recommend allotting 45 minutes for lunch. If people take longer than this, you still have 15 minutes of wiggle room. Any longer than an hour, and you’re just burning daylight! 
