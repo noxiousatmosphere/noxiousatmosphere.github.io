@@ -67,8 +67,8 @@ The ACF site director will give you access to a spreadsheet with each team’s r
 ### For NAQT: 
 On the NAQT site page for your tournament site, click on “Current Field” to see each team’s registration details.  
 
-## Build the schedule after team count is confirmed
-I would strongly recommend using the HDWhite [Quizbowl Schedule Generator](https://hdwhite.org/qb/schedules/). 
+## Create the tournament schedule
+Once your roster of teams is more or less finalized, I would strongly recommend using the HDWhite [Quizbowl Schedule Generator](https://hdwhite.org/qb/schedules/). 
 Note that this site produces two links: 
 
 * An editable link—do not share this with anyone else!
