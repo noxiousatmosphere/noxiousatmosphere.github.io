@@ -92,21 +92,21 @@ I would **strongly** recommend using the scoresheet template from NAQT, regardle
 ### Full instructions: 
 
 1. Open this blank [NAQT Scoresheet](https://docs.google.com/spreadsheets/d/1wrjU6Fg-PKuR2B1MLvp_gAOluJyQvFy_EVPZMsd4Mq4/edit#gid=1305109048).
-1. Click on the File tab, then “Make a Copy”
-1. Select the folder you want to save this copy to. I’d suggest making a new folder with the tournament name, if you haven’t already. 
-1. Click “Make a Copy.” 
-1. Next, navigate to this new folder. Create a new sub-folder for each gameplay room. For example, if your tournament has five rounds of gameplay going on simultaneously, create five new folders. 
-1. Rename each folder with the room number and the last name of the reader who will be staffing it. This will save you a lot of headache later! See below. 
-1. **ADD IMAGE HERE**
-1. Open the score sheet. 
-1. Fill out the red-highlighted cell next to the word “Event.” (For example, “NAQT SCT 2023 @UCF”) 
-1. Right-click the tab titled “Scoresheet” at the bottom, and click “Duplicate.” 
-1. Do this for as many rounds of gameplay as you have on the schedule, plus two more in case of tiebreakers or final matches. For example, if you’re playing a nine-game round robin, you should have a total of eleven tabs in this score sheet. 
-1. Rename each tab “Round 1,” “Round 2,” etc. with the last two called “Final Round #1” and “Final Round #2” 
-1. On each tab, fill in the red-highlighted cell next to the word “Round.” Make sure that this number is the same as the title of the tab! 
-1. You can leave the “Instructions” tab there for the score keeper’s reference. 
-1. Now go back to the Google Drive folder, right click this file, and click “Make a Copy.” Do this until you have one copy in each room folder. 
-1. Click on the person icon in the Google Drive menu and add the volunteer’s emails. It will automatically notify them via email that they’ve been granted access. 
+2. Click on the File tab, then “Make a Copy”
+3. Select the folder you want to save this copy to. I’d suggest making a new folder with the tournament name, if you haven’t already. 
+4. Click “Make a Copy.” 
+5. Next, navigate to this new folder. Create a new sub-folder for each gameplay room. For example, if your tournament has five rounds of gameplay going on simultaneously, create five new folders. 
+6. Rename each folder with the room number and the last name of the reader who will be staffing it. This will save you a lot of headache later! See below. 
+![name of the image][{{site.url}}/assets/Picture1.png]
+7. Open the score sheet. 
+8. Fill out the red-highlighted cell next to the word “Event.” (For example, “NAQT SCT 2023 @UCF”) 
+9. Right-click the tab titled “Scoresheet” at the bottom, and click “Duplicate.” 
+10. Do this for as many rounds of gameplay as you have on the schedule, plus two more in case of tiebreakers or final matches. For example, if you’re playing a nine-game round robin, you should have a total of eleven tabs in this score sheet. 
+11. Rename each tab “Round 1,” “Round 2,” etc. with the last two called “Final Round #1” and “Final Round #2” 
+12. On each tab, fill in the red-highlighted cell next to the word “Round.” Make sure that this number is the same as the title of the tab! 
+13. You can leave the “Instructions” tab there for the score keeper’s reference. 
+14. Now go back to the Google Drive folder, right click this file, and click “Make a Copy.” Do this until you have one copy in each room folder. 
+15. Click on the person icon in the Google Drive menu and add the volunteer’s emails. It will automatically notify them via email that they’ve been granted access. 
 
 
 ## Update your reference page for the day of the tournament
