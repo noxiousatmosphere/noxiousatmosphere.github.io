@@ -24,7 +24,7 @@ If you notice any errors or glaring omissions in this guide, I welcome any feedb
 
 ## Have any questions? 
 
-If you have any questions or concerns about hosting, [reach out to me](hkeating1@outlook.com), former TDs your know, or [the quiz bowl forums](https://hsquizbowl.org/forums/). The community is more than happy to help new tournament directors. 
+If you have any questions or concerns about hosting, reach out to me (<hkeating1@outlook.com>), former TDs your know, or [the quiz bowl forums](https://hsquizbowl.org/forums/). The community is more than happy to help new tournament directors. 
 
 Don't be afraid to ask questions, and be sure to do so ahead of time—if you wait too long, your tournament may suffer for it!
 
