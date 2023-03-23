@@ -43,6 +43,9 @@ As each round ends, immediately input the round data into YellowFruit.
 
 When the last round before lunch is complete, upload your stats so far to the tournament database so players can view them during their lunch break. 
 
+**Very important note:** You won't be able to announce winners or setup finals matches until you've compiled the scores from every preliminary round, so no matter what, make sure you finish these as soon as possible after the last preliminary round is done. No one can play until these stats are compiled, so try to do this as quickly (but accurately) as possible. 
+* For example: if your tournament is a nine-game round robin, you should have every match from rounds 1-8 compiled by the time round #9 finishes. This way, you only need to add four or five matches of data for your statistics to be done. 
+
 ## Break for lunch 
 I would strongly recommend allotting 45 minutes for lunch. If people take longer than this, you still have 15 minutes of wiggle room. Any longer than an hour, and you’re just burning daylight! 
 
@@ -51,7 +54,7 @@ You could write an entire manual just on this step, but for final rounds, just f
 
 ## Prepare notes for the awards ceremony
 * As the last round is coming to a close, you should have a solid idea of which teams are going to come out on top. 
-* Prepare a list of the top highest-scoring individuals. 
+* Prepare a list of the top highest-scoring individuals, based on individual points per game (PPG) from **preliminary** (not finals) rounds. 
 
 ## Awards ceremony 
 Quiz bowl crowds hate pomp and circumstance, so keep the announcements quick and straightforward.
