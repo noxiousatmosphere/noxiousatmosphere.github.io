@@ -12,8 +12,8 @@ nav_order: 2
 {:toc}
 
 ## Make a room reservation with UCF 
-* The Classroom Reservation form can be accessed at the bottom of [this page](https://registrar.ucf.edu/classroom-reservations/). 
-* Input the following: 
+The Classroom Reservation form can be accessed at the bottom of [this page](https://registrar.ucf.edu/classroom-reservations/). 
+Input the following: 
 	* Select “Registered Student Organization or SGA/SGA Affiliated Agency”
 	* Faculty Advisor: <Contact information can be found in the Club Wiki> 
 	* Event Name: <Name of tournament here> 
@@ -26,12 +26,15 @@ nav_order: 2
 	* Start: 8:00am
 	* End: 6:20pm
 	* Cleanup: 6:20pm 
-* Once you send this form, you should automatically receive a confirmation email.
-* In case you’re wondering, this location, the Lupfer Atrium, is ideal for several reasons: 
+
+Once you send this form, you should automatically receive a confirmation email.
+
+In case you’re wondering, the Lupfer Atrium of BA1 is ideal for several reasons: 
 	* It has restrooms nearby
 	* First floor and second floor rooms are all close to each other
 	* It’s near the Student Union and parking Garage C
-* The registrar’s office can take several business days to reply, so be patient. If you’re emailing them prior to the second week of the semester, don’t expect a reply until Monday of week three at the earliest. 
+
+Please note that the registrar’s office can take several business days to reply, so be patient. If you’re emailing them prior to the second week of the semester, don’t expect a reply until Monday of week three at the earliest. 
 
 ## Start recruiting volunteers now, not later
 Your tournament cannot happen without at least one volunteer per room, and ideally two per room.  
