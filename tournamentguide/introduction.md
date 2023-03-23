@@ -20,7 +20,7 @@ If you have the time and are willing to put in the effort, hosting tournaments i
 
 ## Notice a mistake?
 
-If you notice any errors or glaring omissions in this guide, I welcome any feedback: fantradisc#3677 (Discord). 
+If you notice any errors or glaring omissions in this guide, I welcome any feedback (<hkeating1@outlook.com>). 
 
 ## Have any questions? 
 
