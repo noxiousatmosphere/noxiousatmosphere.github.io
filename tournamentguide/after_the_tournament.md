@@ -42,4 +42,4 @@ They will initiate this process. Just keep an eye on your email.
 ## Write summary follow-up for forum post
 For posterity’s sake, it’s nice to update the initial announcement post on the forums with a quick message. 
 
-For example: *Congrats to UF A for winning the tournament overall with a 10-0 record (!), to UF D for winning the Undergraduate title, and to John Smith [UF] for winning the overall individual title! Full stats have been posted <here>. Thank you to everyone who attended, especially our volunteer staff!*
+For example: *Congrats to UF A for winning the tournament overall with a 10-0 record (!), to UF D for winning the Undergraduate title, and to John Smith [UF] for winning the overall individual title! Full stats have been posted here (add link). Thank you to everyone who attended, especially our volunteer staff!*
