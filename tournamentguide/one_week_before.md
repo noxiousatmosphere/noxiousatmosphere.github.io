@@ -69,6 +69,16 @@ On the NAQT site page for your tournament site, click on “Current Field” to 
 
 ## Create the tournament schedule
 Once your roster of teams is more or less finalized, I would strongly recommend using the HDWhite [Quizbowl Schedule Generator](https://hdwhite.org/qb/schedules/). 
+
+This tool will automatically generate a schedule for you—all you need to do is...
+1. Select the total number of teams 
+2. Choose a tournament format (select "round robin" unless someone tells you otherwise)
+3. Add the abbreviated team names, one per line 
+4. Add the room numbers, one per line (I would strongly recommend including the moderator last name as well—ex. "122 Smith") 
+5. Select the number of finals matches you want (unless **NAQT** tells you otherwise, select "one") 
+
+You can always edit the schedule later, so don't worry if you're still confirming room/team/volunteer details. 
+
 Note that this site produces two links: 
 
 * An editable link—do not share this with anyone else!
