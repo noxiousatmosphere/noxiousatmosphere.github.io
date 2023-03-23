@@ -29,8 +29,7 @@ If you're hosting an ACF or NAQT tournament, you'll need to submit a bid for you
 
 ### For ACF:
  
-* Look on the quiz bowl forums for that tournament’s global announcement—here’s [ACF Winter 2022](https://hsquizbowl.org/forums/viewtopic.php?t=26240) 
-* for an example.
+* Look on the quiz bowl forums for that tournament’s global announcement—here’s [ACF Winter 2022](https://hsquizbowl.org/forums/viewtopic.php?t=26240) for an example.
 * Find the link to the “bidding form.”
 * Provide any information they ask for and submit.
 
