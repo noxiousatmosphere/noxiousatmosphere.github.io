@@ -2,7 +2,7 @@
 layout: default
 title: After the Tournament
 parent: Tournament Hosting Guide
-nav_order: 8
+nav_order: 9
 ---
 
 # After the Tournament 
