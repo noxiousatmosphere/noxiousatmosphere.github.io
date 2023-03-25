@@ -12,7 +12,7 @@ nav_order: 1
 {:toc}
 
 ## What is this? 
-This guide is a compilation everything I've learned the hard way as a neophyte tournament director. It's intended to provide a (nearly) comprehensive, top-down overview of every step that goes into successfull hosting a quiz bowl tournament. Other tournament hosting guides exist, but I wanted to write one specific to UCF and include some tips I haven't read elsewhere.  
+This guide is a compilation everything I've learned the hard way as a neophyte tournament director. It's intended to provide a (nearly) comprehensive, top-down overview of every step that goes into successfully hosting a quiz bowl tournament. Other tournament hosting guides exist, but I wanted to write one specific to UCF and include some tips I haven't read elsewhere.  
 
 ## Why host tournaments? 
 
